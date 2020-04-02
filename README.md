@@ -1,2 +1,2 @@
 # motd
-beautiful [Message of The Day] for you server
+beautiful [Message of The Day] for your server
